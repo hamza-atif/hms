@@ -1,4 +1,4 @@
-#Hospital Management System
+# Hospital Management System
 ## Proposal
 Hospital Management System provide an integrated solution for the hospital,which helps in efficient management of the hospital.
 ### Group Members
